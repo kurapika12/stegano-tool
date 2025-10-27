@@ -1,0 +1,7 @@
+# === Core dependencies ===
+cryptography==43.0.1
+Pillow==10.4.0
+customtkinter==5.2.2
+
+# === Optional (GUI & system helpers) ===
+tk==0.1.0  # Sometimes needed for tkinter on some environments
